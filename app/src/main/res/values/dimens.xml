@@ -1,0 +1,15 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--http://www.jianshu.com/p/7b2d842267ab-->
+    <!--BottomNavigationView 的选中没有选中的字体大小-->
+    <dimen name="design_bottom_navigation_active_text_size">10sp</dimen>
+    <dimen name="design_bottom_navigation_text_size">10sp</dimen>
+
+    <!--BottomNavigationView 只放图标时的设置-->
+    <!--<dimen name="design_bottom_navigation_active_text_size">0sp</dimen>-->
+    <!--<dimen name="design_bottom_navigation_text_size">0sp</dimen>-->
+    <!--<dimen name="design_bottom_navigation_margin">16dp</dimen>-->
+</resources>
